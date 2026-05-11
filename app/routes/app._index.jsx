@@ -7,7 +7,7 @@ export default function AppIndex() {
         <Layout.Section>
           <Card sectioned>
             <Text as="h2" variant="headingMd">
-              ¡Polaris funcionando en tu APP! 🚀
+              ¡Polaris funcionando en tu APP! 🚀!!!
             </Text>
 
             <p>Este es tu primer contenido personalizado.</p>
